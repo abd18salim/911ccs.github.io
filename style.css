@@ -1,0 +1,19 @@
+body {
+  min-height: 2250px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: black;
+}
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
+
+.row {
+  margin-bottom: 40px;
+}
+section{
+  padding-top: 3rem;
+}
